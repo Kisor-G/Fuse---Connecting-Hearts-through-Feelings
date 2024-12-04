@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272868763244",
+    "project_id": "fuse-137b9",
+    "storage_bucket": "fuse-137b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272868763244:android:b528c0901198be2c661a49",
+        "android_client_info": {
+          "package_name": "com.example.fuseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfp3Zns_eNFkI9N-nEVyh24__Tta8MxqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
