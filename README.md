@@ -1,4 +1,4 @@
-<h1> <center> Fuse - A Sentiment-Based Relationship Strength App </center>
+<h1> <center> Fuse - A Sentiment-Based Relationship Strength App </center> </h1>
 Fuse is an innovative application designed to enhance and strengthen relationships through the power of sentiment analysis. Our app leverages cutting-edge technology, including Google Firebase for user authentication and database management, and a custom machine learning model for sentiment analysis, to interpret and understand the emotional undertones in interactions, helping users build stronger, more meaningful connections.
 
 Key Features
