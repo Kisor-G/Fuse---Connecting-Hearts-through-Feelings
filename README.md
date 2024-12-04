@@ -8,6 +8,7 @@
     <header style="background: #333; color: #fff; padding-top: 30px; min-height: 70px; border-bottom: #0779e4 3px solid;">
         <h1 style="text-align: center; text-transform: uppercase; margin: 0; font-size: 2.5em;">Fuse - A Sentiment-Based Relationship Strength App</h1>
     </header>
+    <p>Fuse is an innovative application designed to enhance and strengthen relationships through the power of sentiment analysis. Our app leverages cutting-edge technology, including Google Firebase for user authentication and database management, and a custom machine learning model for sentiment analysis, to interpret and understand the emotional undertones in interactions, helping users build stronger, more meaningful connections.</p>
     <div class="container" style="width: 80%; margin: auto; overflow: hidden;">
         <section class="features" style="background: #fff; margin-top: 30px; padding: 20px; border-radius: 8px;">
             <h2 style="color: #333; font-size: 1.5em; text-align: center;">Key Features</h2>
